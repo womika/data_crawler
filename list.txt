@@ -1,400 +1,320 @@
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "308334",
-    "data-object-lat": "52.2453651",
-    "data-object-lon": "21.1077824",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[838028]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. Jagoda G\u0142odkowska",
-    "data-nearest-available-date": "2018-03-19"
+    "address": {
+        "lat": "52.2453651",
+        "lon": "21.1077824",
+        "street": "Szaserów 59 / 7",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "Poradnia przy Szaserów"
+    },
+    "doctor": {
+        "name": "lek. Jagoda Głodkowska",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-19"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "150484",
-    "data-object-lat": "52.2628174",
-    "data-object-lon": "20.9775791",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[217940]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "dr n. med. Pawe\u0142 Adamczyk",
-    "data-nearest-available-date": "2018-03-19"
+    "address": {
+        "lat": "52.2628174",
+        "lon": "20.9775791",
+        "street": "Władysława Broniewskiego 3",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "Centrum Medyczne Gamma"
+    },
+    "doctor": {
+        "name": "dr n. med. Paweł Adamczyk",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-19"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "218598",
-    "data-object-lat": "52.0844498",
-    "data-object-lon": "21.0853519",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[520110]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "dr n. med. Marcin Milczarek",
-    "data-nearest-available-date": "2018-03-19"
+    "address": {
+        "lat": "52.0844498",
+        "lon": "21.0853519",
+        "street": "Pułaskiego 20B",
+        "city": "Konstancin-Jeziorna",
+        "region": "mazowieckie",
+        "institution": "Centrum Zdrowia"
+    },
+    "doctor": {
+        "name": "dr n. med. Marcin Milczarek",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-19"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "218156",
-    "data-object-lat": "52.2276382",
-    "data-object-lon": "21.0041046",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[902000,902100]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. Marek Pro\u015bci\u0144ski",
-    "data-nearest-available-date": "2018-03-19"
+    "address": {
+        "lat": "52.2276382",
+        "lon": "21.0041046",
+        "street": "Aleje Jerozolimskie 65/79",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "PROFEMED Lekarze Specjaliści"
+    },
+    "doctor": {
+        "name": "lek. Marek Prościński",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-19"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "309339",
-    "data-object-lat": "52.2453651",
-    "data-object-lon": "21.1077824",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[851350]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. Aleksander Yankouski",
-    "data-nearest-available-date": "2018-03-20"
+    "address": {
+        "lat": "52.2453651",
+        "lon": "21.1077824",
+        "street": "Szaserów 59 / 7",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "Poradnia przy Szaserów"
+    },
+    "doctor": {
+        "name": "lek. Aleksander Yankouski",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-20"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "45145",
-    "data-object-lat": "52.2293625",
-    "data-object-lon": "20.9829865",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[478824,511402]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "dr n. med. Jaros\u0142aw Strychar",
-    "data-nearest-available-date": "2018-03-20"
+    "address": {
+        "lat": "52.2293625",
+        "lon": "20.9829865",
+        "street": "ul. Sienna 83",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "Rex Medica Sport"
+    },
+    "doctor": {
+        "name": "dr n. med. Jarosław Strychar",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-20"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "166960",
-    "data-object-lat": "52.2698174",
-    "data-object-lon": "20.9363785",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[459832,288988]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. Sebastian Janiczek",
-    "data-nearest-available-date": "2018-03-20"
+    "address": {
+        "lat": "52.2698174",
+        "lon": "20.9363785",
+        "street": "Nowogrodzka 51/1",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "Centrum Medyczne AstiMed"
+    },
+    "doctor": {
+        "name": "lek. Sebastian Janiczek",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-20"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "270534",
-    "data-object-lat": "52.2771416",
-    "data-object-lon": "20.9439278",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[494434,883778]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. Marta Szyma\u0144ska",
-    "data-nearest-available-date": "2018-03-22"
+    "address": {
+        "lat": "52.2771416",
+        "lon": "20.9439278",
+        "street": "Nowogrodzka 51/1",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "ZnajomaKlinika.pl"
+    },
+    "doctor": {
+        "name": "lek. Marta Szymańska",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-22"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "268882",
-    "data-object-lat": "52.1568642",
-    "data-object-lon": "21.0719776",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[487554,487552,865508]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. \u0141ukasz Dubielecki",
-    "data-nearest-available-date": "2018-03-22"
+    "address": {
+        "lat": "52.1568642",
+        "lon": "21.0719776",
+        "street": "Świętego Stanisława Kostki 4",
+        "city": "Piastów",
+        "region": "mazowieckie",
+        "institution": "KalinaMed lekarz ortopeda, USG ortopedyczne niedziela"
+    },
+    "doctor": {
+        "name": "lek. Łukasz Dubielecki",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-22"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "71480",
-    "data-object-lat": "52.2852554",
-    "data-object-lon": "20.9533768",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[839796,418164]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. Micha\u0142 Szyszka",
-    "data-nearest-available-date": "2018-03-19"
+    "address": {
+        "lat": "52.2852554",
+        "lon": "20.9533768",
+        "street": "Władysława Broniewskiego 3",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "Body Move"
+    },
+    "doctor": {
+        "name": "lek. Michał Szyszka",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-19"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "71488",
-    "data-object-lat": "52.2273865",
-    "data-object-lon": "21.0067902",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[288990,850736]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. Filip Kucharczyk",
-    "data-nearest-available-date": "2018-03-21"
+    "address": {
+        "lat": "52.2273865",
+        "lon": "21.0067902",
+        "street": "Aleje Jerozolimskie 65/79, 6p.",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "FIMEDICA"
+    },
+    "doctor": {
+        "name": "lek. Filip Kucharczyk",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-21"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "43686",
-    "data-object-lat": "52.1550903",
-    "data-object-lon": "21.0779629",
-    "data-object-calendar": "",
-    "data-object-type": "doctor",
-    "data-address-id": "[845820]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "dr n. med. Pawe\u0142 Soko\u0142owicz",
-    "data-nearest-available-date": "2018-03-20"
+    "address": {
+        "lat": "52.1550903",
+        "lon": "21.0779629",
+        "street": "aleja Rzeczypospolitej 5",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "Rehasport Clinic"
+    },
+    "doctor": {
+        "name": "dr n. med. Paweł Sokołowicz",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-20"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "150488",
-    "data-object-lat": "52.2628174",
-    "data-object-lon": "20.9775791",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[390226]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. Grzegorz Doroszewski",
-    "data-nearest-available-date": "2018-03-27"
+    "address": {
+        "lat": "52.2628174",
+        "lon": "20.9775791",
+        "street": "Władysława Broniewskiego 3",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "Centrum Medyczne Gamma"
+    },
+    "doctor": {
+        "name": "lek. Grzegorz Doroszewski",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-27"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "267822",
-    "data-object-lat": "52.2055473",
-    "data-object-lon": "20.9964409",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[392362]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. \u0141ukasz Kowalski",
-    "data-nearest-available-date": "2018-03-20"
+    "address": {
+        "lat": "52.2055473",
+        "lon": "20.9964409",
+        "street": "ul. Biały Kamień 2",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "Klinika Ruchu"
+    },
+    "doctor": {
+        "name": "lek. Łukasz Kowalski",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-20"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "304456",
-    "data-object-lat": "52.2866554",
-    "data-object-lon": "21.0263443",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[881918,485776]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "dr n. med. Piotr Wojdasiewicz",
-    "data-nearest-available-date": "2018-03-19"
+    "address": {
+        "lat": "52.2866554",
+        "lon": "21.0263443",
+        "street": "Marynarska 13",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "Poradnia Chorób Stopy"
+    },
+    "doctor": {
+        "name": "dr n. med. Piotr Wojdasiewicz",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-19"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "79910",
-    "data-object-lat": "52.2307777",
-    "data-object-lon": "20.9759388",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[881440]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "dr n. med. Artur Biel",
-    "data-nearest-available-date": "2018-03-19"
+    "address": {
+        "lat": "52.2307777",
+        "lon": "20.9759388",
+        "street": "Giełdowa 4 u.1",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "Przychodnia Rehexpert"
+    },
+    "doctor": {
+        "name": "dr n. med. Artur Biel",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-19"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "18796",
-    "data-object-lat": "52.2276382",
-    "data-object-lon": "21.0041046",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[473322]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "dr hab. n. med. Ireneusz Babiak",
-    "data-nearest-available-date": "2018-03-20"
+    "address": {
+        "lat": "52.2276382",
+        "lon": "21.0041046",
+        "street": "Aleje Jerozolimskie 65/79, 6p.",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "PROFEMED Lekarze Specjaliści"
+    },
+    "doctor": {
+        "name": "dr hab. n. med. Ireneusz Babiak",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-20"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "40400",
-    "data-object-lat": "52.0991325",
-    "data-object-lon": "21.0513859",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[371781]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. Leszek Jezierski",
-    "data-nearest-available-date": "2018-03-26"
+    "address": {
+        "lat": "52.0991325",
+        "lon": "21.0513859",
+        "street": "Urocza 14",
+        "city": "Józefosław",
+        "region": "mazowieckie",
+        "institution": "Zdrowie to my"
+    },
+    "doctor": {
+        "name": "lek. Leszek Jezierski",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-26"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "297180",
-    "data-object-lat": "52.1965866",
-    "data-object-lon": "20.8868561",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[492728,866660]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. Maciej Materkowski",
-    "data-nearest-available-date": "2018-03-19"
+    "address": {
+        "lat": "52.1965866",
+        "lon": "20.8868561",
+        "street": "Grójecka 186",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "ViaMed Przychodnia Ursus"
+    },
+    "doctor": {
+        "name": "lek. Maciej Materkowski",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-19"
 }
 {
-    "class": [
-        "rank-element-nearest-date",
-        "small",
-        "padding-xs-right-1",
-        "padding-sm-right-2",
-        ""
-    ],
-    "data-id": "rank-element",
-    "data-object-id": "298442",
-    "data-object-lat": "52.2242279",
-    "data-object-lon": "21.0933266",
-    "data-object-calendar": "1",
-    "data-object-type": "doctor",
-    "data-address-id": "[494712]",
-    "itemscope": "",
-    "itemtype": "http://schema.org/Physician",
-    "name": "lek. Maciej Michalec",
-    "data-nearest-available-date": "2018-03-20"
+    "address": {
+        "lat": "52.2242279",
+        "lon": "21.0933266",
+        "street": "Bora-Komorowskiego 21 lok. 307",
+        "city": "Warszawa",
+        "region": "mazowieckie",
+        "institution": "BORAMED"
+    },
+    "doctor": {
+        "name": "lek. Maciej Michalec",
+        "type": "doctor",
+        "speciality": "ortopeda"
+    },
+    "nearest_date": "2018-03-20"
 }

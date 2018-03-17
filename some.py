@@ -3,10 +3,10 @@ import requests
 import pickle
 import json
 
-doctor = 'ortopeda'
+doctor_speciality = 'ortopeda'
 location = 'warszawa'
 
-url = f'https://www.znanylekarz.pl/{doctor}/{location}'
+url = f'https://www.znanylekarz.pl/{doctor_speciality}/{location}'
 
 # r = requests.get(url)
 
@@ -22,14 +22,32 @@ search_results = soup.find(attrs={'data-id':"search-results-container"})
 # [tag.attrs for tag in search_results.ul.find_all(class_="rank-element")]
 
 
-for tag in search_results.ul.find_all(class_="rank-element"):
-    name = tag.find(attrs={'itemprop':'name'})
+for tag in search_results.ul.find_all(attrs={'data-id': "rank-element"}):
+    name = tag.find(attrs={'itemprop': 'name'})
     tag.attrs.update({'name': name.text})
-    # print(name.text)
     nearest_date = tag.find(class_="rank-element-nearest-date")
-    tag.attrs.update(nearest_date.attrs)
-    print(json.dumps(tag.attrs, indent=4))
-    # print(tag.attrs)
+    medical_specialty = tag.find_all('meta')  #, attrs={'itemprop': "MedicalSpecialty"})
+    institution = tag.find('span', class_="name")
+    for meta in medical_specialty:
+        tag.attrs.update({meta['itemprop']: meta['content']})
+    record = {}
+    record.update({
+        'address': {
+            'lat': tag['data-object-lat'],
+            'lon': tag['data-object-lon'],
+            'street': tag['streetAddress'],
+            'city': tag['addressLocality'],
+            'region': tag['addressRegion'],
+            'institution': institution.text,
+            },
+        'doctor': {
+            'name': tag['name'],
+            'type': tag['data-object-type'],
+            'speciality': tag.get('MedicalSpecialty') or doctor_speciality
+            },
+        'nearest_date': nearest_date.attrs.get('data-nearest-available-date')
+        })
+    print(json.dumps(record, indent=4, ensure_ascii=False))
 
 
 # def get_chapter(url, chapter_no):
