@@ -1,16 +1,35 @@
 from bs4 import BeautifulSoup
 import requests
 import pickle
+import json
 
 doctor = 'ortopeda'
 location = 'warszawa'
 
 url = f'https://www.znanylekarz.pl/{doctor}/{location}'
 
-r = requests.get(url)
+# r = requests.get(url)
 
-with open('request_dump', 'wb') as file:
-    pickle.dump(r, file)
+with open('request_dump', 'rb') as file:
+    r = pickle.load(file)
+
+soup = BeautifulSoup(r.content, "html.parser")
+
+search_results = soup.find(attrs={'data-id':"search-results-container"})
+
+# search_results.ul.find_all(attrs={'itemprop':'name'})
+
+# [tag.attrs for tag in search_results.ul.find_all(class_="rank-element")]
+
+
+for tag in search_results.ul.find_all(class_="rank-element"):
+    name = tag.find(attrs={'itemprop':'name'})
+    tag.attrs.update({'name': name.text})
+    # print(name.text)
+    nearest_date = tag.find(class_="rank-element-nearest-date")
+    tag.attrs.update(nearest_date.attrs)
+    print(json.dumps(tag.attrs, indent=4))
+    # print(tag.attrs)
 
 
 # def get_chapter(url, chapter_no):
