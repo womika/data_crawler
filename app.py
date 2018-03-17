@@ -2,7 +2,7 @@
 Api endpoint: /api/{body_part}/{location}
 
 location => default=warszawa
-symptom => head, limb, chest, back
+body_part => head, limb, chest, back
 """
 from flask import Flask, make_response
 from flask_restful import Resource, Api

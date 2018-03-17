@@ -4,11 +4,11 @@ Crawls websites of medical institurions for data
 
 ## Api endpoint
 
-/api/{body_part}/{location}
+GET /api/{body_part}/{location}
 
 - location:
     - default=warszawa
-- symptom:
+- body_part:
     - head
     - limb
     - chest
