@@ -8,10 +8,10 @@ import json
 # location = 'warszawa'
 
 def get_medical_institutions(doctor_speciality, location):
-    with open('request_dump', 'rb') as file:
-        r = pickle.load(file)
-    # url = f'https://www.znanylekarz.pl/{doctor_speciality}/{location}'
-    # r = requests.get(url)
+    # with open('request_dump', 'rb') as file:
+    #     r = pickle.load(file)
+    url = f'https://www.znanylekarz.pl/{doctor_speciality}/{location}'
+    r = requests.get(url)
     soup = BeautifulSoup(r.content, "html.parser")
     search_results = soup.find(attrs={'data-id': "search-results-container"})
     result = []
