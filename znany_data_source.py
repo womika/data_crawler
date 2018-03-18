@@ -33,7 +33,7 @@ def get_medical_institutions(doctor_speciality, location):
                 'type': tag.get('data-object-type'),
                 'speciality': doctor_speciality or tag.get('MedicalSpecialty')
             },
-            'nearest_date': nearest_date.attrs.get('data-nearest-available-date')
+            'nearest_date': nearest_date.attrs.get('data-nearest-available-date') if hasattr(nearest_date, 'attrs') else None
         })
         result.append(record)
     return result
