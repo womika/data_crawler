@@ -16,4 +16,7 @@ MAPPER = {
     'back': [
         'fizjoterapeuta',
     ],
+    'eye': [
+        'okulista',
+    ]
 }

@@ -31,7 +31,7 @@ def get_medical_institutions(doctor_speciality, location):
             'doctor': {
                 'name': tag.get('name'),
                 'type': tag.get('data-object-type'),
-                'speciality': tag.get('MedicalSpecialty') or doctor_speciality
+                'speciality': doctor_speciality or tag.get('MedicalSpecialty')
             },
             'nearest_date': nearest_date.attrs.get('data-nearest-available-date')
         })
