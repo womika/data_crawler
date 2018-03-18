@@ -1,65 +1,785 @@
 [
     {
         "address": {
-            "lat": "52.2453651",
-            "lon": "21.1077824",
-            "street": "Szaserów 59 / 7",
+            "lat": "52.1708412",
+            "lon": "21.1606884",
+            "street": "Przewodowa 14",
             "city": "Warszawa",
             "region": "mazowieckie",
-            "institution": "Poradnia przy Szaserów"
+            "institution": "OKULISTA Warszawa Wawer Okulary i Soczewki Kontaktowe"
         },
         "doctor": {
-            "name": "lek. Jagoda Głodkowska",
+            "name": "lek. Beata Adamus",
             "type": "doctor",
-            "speciality": "ortopeda"
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-18"
+    },
+    {
+        "address": {
+            "lat": "52.2549629",
+            "lon": "20.9846001",
+            "street": "S\u0142omi\u0144skiego 19 lok. 503",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Centrum Operacji Za\u0107my"
+        },
+        "doctor": {
+            "name": "dr n. med. Jerzy Brzozowski",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-21"
+    },
+    {
+        "address": {
+            "lat": "52.2590714",
+            "lon": "20.9631958",
+            "street": "Pow\u0105zkowska 44C",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Centrum Medyczne Falck w Warszawie Pow\u0105zkowska"
+        },
+        "doctor": {
+            "name": "lek. Krzysztof Olszowiec",
+            "type": "doctor",
+            "speciality": "Optometic"
         },
         "nearest_date": "2018-03-19"
     },
     {
         "address": {
-            "lat": "52.2628174",
-            "lon": "20.9775791",
-            "street": "Władysława Broniewskiego 3",
-            "city": "Warszawa",
+            "lat": "52.0991325",
+            "lon": "21.051384",
+            "street": "Urocza 14",
+            "city": "J\u00f3zefos\u0142aw",
             "region": "mazowieckie",
-            "institution": "Centrum Medyczne Gamma"
+            "institution": "Optidermic"
         },
         "doctor": {
-            "name": "dr n. med. Paweł Adamczyk",
+            "name": "lek. Joanna Wolanin",
             "type": "doctor",
-            "speciality": "ortopeda"
+            "speciality": "Optometic"
         },
-        "nearest_date": "2018-03-19"
+        "nearest_date": "2018-03-23"
     },
     {
         "address": {
-            "lat": "52.0844498",
-            "lon": "21.0853519",
-            "street": "Pułaskiego 20B",
-            "city": "Konstancin-Jeziorna",
+            "lat": "52.2068329",
+            "lon": "21.0379162",
+            "street": "Jurija Gagarina 26/U5",
+            "city": "Warszawa",
             "region": "mazowieckie",
-            "institution": "Centrum Zdrowia"
+            "institution": "Macromedica Centrum Medyczne"
         },
         "doctor": {
-            "name": "dr n. med. Marcin Milczarek",
+            "name": "lek. Marek \u0141uczak",
             "type": "doctor",
-            "speciality": "ortopeda"
+            "speciality": "Optometic"
         },
-        "nearest_date": "2018-03-19"
+        "nearest_date": "2018-03-20"
     },
     {
         "address": {
             "lat": "52.2276382",
             "lon": "21.0041046",
-            "street": "Aleje Jerozolimskie 65/79",
+            "street": "ul. Post\u0119pu 21C",
             "city": "Warszawa",
             "region": "mazowieckie",
-            "institution": "PROFEMED Lekarze Specjaliści"
+            "institution": "PROFEMED Lekarze Specjali\u015bci"
         },
         "doctor": {
-            "name": "lek. Marek Prościński",
+            "name": "lek. Joanna Goetz",
             "type": "doctor",
-            "speciality": "ortopeda"
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-20"
+    },
+    {
+        "address": {
+            "lat": "52.2068329",
+            "lon": "21.0379162",
+            "street": "Jurija Gagarina 26/U5",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Macromedica Centrum Medyczne"
+        },
+        "doctor": {
+            "name": "lek. Alicja B\u0142a\u017cej-Wa\u015bkiewicz",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-04-05"
+    },
+    {
+        "address": {
+            "lat": "52.2698174",
+            "lon": "20.9363785",
+            "street": "W\u0142odarzewska 81",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Centrum Medyczne AstiMed"
+        },
+        "doctor": {
+            "name": "lek. Aneta Bembenek",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-19"
+    },
+    {
+        "address": {
+            "lat": "52.2347527",
+            "lon": "20.9595585",
+            "street": "ul. Soko\u0142owska 9 lok. 15",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Libermedic Warszawskie Centrum Okulistyczne"
+        },
+        "doctor": {
+            "name": "lek. \u0141ukasz Ko\u0142odziejski",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-19"
+    },
+    {
+        "address": {
+            "lat": "52.2408867",
+            "lon": "20.9806004",
+            "street": "Andersa 16",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Szpital Jednodniowy Ibis"
+        },
+        "doctor": {
+            "name": "lek. Agnieszka Czy\u017c",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-19"
+    },
+    {
+        "address": {
+            "lat": "52.2172661",
+            "lon": "21.0183372",
+            "street": "aleja Armii Ludowej 13",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Gabinet okulistyczny ,,Jasno Widz\u0119\""
+        },
+        "doctor": {
+            "name": "lek. Dominika Roma\u0144czak",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-04-03"
+    },
+    {
+        "address": {
+            "lat": "52.2460136",
+            "lon": "21.0856609",
+            "street": "Kobielska 23, wej\u015bcie od Ronda Wiatraczna, II pi\u0119tro Galerii Groch\u00f3w",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Premium Medical"
+        },
+        "doctor": {
+            "name": "dr n. med. Joanna Bogna Moneta-Wielgo\u015b",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-19"
+    },
+    {
+        "address": {
+            "lat": "52.2304802",
+            "lon": "20.9933701",
+            "street": "Kobielska 23, wej\u015bcie od Ronda Wiatraczna, II pi\u0119tro Galerii Groch\u00f3w",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "MD Clinic"
+        },
+        "doctor": {
+            "name": "dr n. med. Dorota Kopacz",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-21"
+    },
+    {
+        "address": {
+            "lat": "52.2413445",
+            "lon": "20.9774094",
+            "street": "Okopowa 33",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "MULTIMED"
+        },
+        "doctor": {
+            "name": "lek. Bo\u017cena Grechuta",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-22"
+    },
+    {
+        "address": {
+            "lat": "52.2304802",
+            "lon": "20.9933701",
+            "street": "ul. Sienna 83",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "MD Clinic"
+        },
+        "doctor": {
+            "name": "lek. Magdalena Korwin",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-29"
+    },
+    {
+        "address": {
+            "lat": "52.2276382",
+            "lon": "21.0041046",
+            "street": "Migda\u0142owa 4",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "PROFEMED Lekarze Specjali\u015bci"
+        },
+        "doctor": {
+            "name": "lek. Joanna \u017belewska",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-21"
+    },
+    {
+        "address": {
+            "lat": "52.2276611",
+            "lon": "21.0042496",
+            "street": "Aleje Jerozolimskie 65/79, 6p.",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Centrum Medyczne LUX MED \u2013 Warszawa, al. Jerozolimskie 65/79"
+        },
+        "doctor": {
+            "name": "lek. Agata Be\u0142\u017cecka",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-24"
+    },
+    {
+        "address": {
+            "lat": "52.1469421",
+            "lon": "21.0583935",
+            "street": "ul. Belgradzka 18",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Centrum Medyczne Grupa LUX MED \u2013 Warszawa, ul. Migda\u0142owa 4"
+        },
+        "doctor": {
+            "name": "lek. Renata So\u0142dacka",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-20"
+    },
+    {
+        "address": {
+            "lat": "52.1780167",
+            "lon": "21.000885",
+            "street": "Marynarska 13",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Centrum Medyczne Falck w Warszawie Marynarska"
+        },
+        "doctor": {
+            "name": "lek. Barbara Paj\u0105k",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-20"
+    },
+    {
+        "address": {
+            "lat": "52.2471619",
+            "lon": "21.005064",
+            "street": "gen. Stanis\u0142awa Skalskiego 3 lok. U8",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "VeritaMed"
+        },
+        "doctor": {
+            "name": "lek. Agata Jakubik",
+            "type": "doctor",
+            "speciality": "Optometic"
+        },
+        "nearest_date": "2018-03-28"
+    },
+    {
+        "address": {
+            "lat": "52.2371407",
+            "lon": "20.8910522",
+            "street": "Warszawska 31 (budynek Przychodni Polmo)",
+            "city": "\u0141omianki",
+            "region": "mazowieckie",
+            "institution": "Gabinet Prywatny"
+        },
+        "doctor": {
+            "name": "lek. Tomasz Nowakowski",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-20"
+    },
+    {
+        "address": {
+            "lat": "52.258606",
+            "lon": "21.0409889",
+            "street": "Bia\u0142obrzeska 40A",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "PsychoMedic.pl Klinika Psychologiczno-Psychiatryczna"
+        },
+        "doctor": {
+            "name": "dr Magdalena Podbro\u017cna",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-21"
+    },
+    {
+        "address": {
+            "lat": "52.2314987",
+            "lon": "21.014986",
+            "street": "ul. Widok 10",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Gabinet Neurologiczny Centrum"
+        },
+        "doctor": {
+            "name": "dr Piotr \u015alifirczyk",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-21"
+    },
+    {
+        "address": {
+            "lat": "52.258606",
+            "lon": "21.0409889",
+            "street": "ul. Lanciego 19 lok. 135 (blisko METRA NATOLIN)",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "PsychoMedic.pl Klinika Psychologiczno-Psychiatryczna"
+        },
+        "doctor": {
+            "name": "lek. Maria Wilczy\u0144ska",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-25"
+    },
+    {
+        "address": {
+            "lat": "52.13591",
+            "lon": "21.0500431",
+            "street": "Stryje\u0144skich  19",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "NZOZ Centrum Terapii DIALOG"
+        },
+        "doctor": {
+            "name": "dr Krzysztof Sadowski",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-20"
+    },
+    {
+        "address": {
+            "lat": "52.2401505",
+            "lon": "20.9803448",
+            "street": "ul. \u017bytnia 18 lok G",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Cosmo Medica - Medycyna Estetyczna Dermatologia Kosmetologia"
+        },
+        "doctor": {
+            "name": "dr n. med. Jaros\u0142aw Zag\u00f3rski",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-22"
+    },
+    {
+        "address": {
+            "lat": "52.2276382",
+            "lon": "21.0041046",
+            "street": "Gr\u00f3jecka 186",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "PROFEMED Lekarze Specjali\u015bci"
+        },
+        "doctor": {
+            "name": "lek. Katarzyna Dziubi\u0144ska-S\u0142awek",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-19"
+    },
+    {
+        "address": {
+            "lat": "52.1836548",
+            "lon": "21.0254326",
+            "street": "ul. Sienna 83",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Instytut Konsultacyjno-Terapeutyczny INVERSA"
+        },
+        "doctor": {
+            "name": "lek. Stanis\u0142aw Szlufik",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-20"
+    },
+    {
+        "address": {
+            "lat": "52.2068329",
+            "lon": "21.0379162",
+            "street": "Jurija Gagarina 26/U5",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Macromedica Centrum Medyczne"
+        },
+        "doctor": {
+            "name": "dr n. med. Marta Le\u0144ska-Mieciek",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-21"
+    },
+    {
+        "address": {
+            "lat": "52.197403",
+            "lon": "21.046278",
+            "street": "1 Sierpnia",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "PROFEMED Sport i Rehabilitacja"
+        },
+        "doctor": {
+            "name": "lek. Maroun Joseph Chahwan",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-20"
+    },
+    {
+        "address": {
+            "lat": "52.2276611",
+            "lon": "21.0042496",
+            "street": "Aleje Jerozolimskie 65/79, 6p.",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Centrum Medyczne LUX MED \u2013 Warszawa, al. Jerozolimskie 65/79"
+        },
+        "doctor": {
+            "name": "lek. Janusz Maciorowski",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-19"
+    },
+    {
+        "address": {
+            "lat": "52.2194366",
+            "lon": "20.9877396",
+            "street": "Wile\u0144ska 37/39  (blisko METRA WILE\u0143SKA)",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "PsychoMedic.pl Klinika Psychologiczno-Psychiatryczna"
+        },
+        "doctor": {
+            "name": "dr Przemyslaw Wielochowski",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-20"
+    },
+    {
+        "address": {
+            "lat": "52.2273865",
+            "lon": "21.0067902",
+            "street": "Nowogrodzka 51/1",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "FIMEDICA"
+        },
+        "doctor": {
+            "name": "lek. S\u0142awomir Mihu\u0142ka",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-29"
+    },
+    {
+        "address": {
+            "lat": "52.1503944",
+            "lon": "21.0595779",
+            "street": "Nowogrodzka 51/1",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Onkolmed. Lecznica Onkologiczna"
+        },
+        "doctor": {
+            "name": "dr hab. n. med. Rafa\u0142 Rola",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-27"
+    },
+    {
+        "address": {
+            "lat": "52.13591",
+            "lon": "21.0500431",
+            "street": "Stryje\u0144skich  19",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "NZOZ Centrum Terapii DIALOG"
+        },
+        "doctor": {
+            "name": "dr hab. n. med. Tadeusz Mendel",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-04-06"
+    },
+    {
+        "address": {
+            "lat": "52.1836548",
+            "lon": "21.0254326",
+            "street": "Bukowi\u0144ska 26B",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Instytut Konsultacyjno-Terapeutyczny INVERSA"
+        },
+        "doctor": {
+            "name": "dr n. med. Julia Buczek",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-22"
+    },
+    {
+        "address": {
+            "lat": "52.1358109",
+            "lon": "21.0502262",
+            "street": "Stryje\u0144skich  19",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "NZOZ Centrum Terapii DIALOG"
+        },
+        "doctor": {
+            "name": "dr n. med. Dorota Grochowska",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-20"
+    },
+    {
+        "address": {
+            "lat": "52.2160301",
+            "lon": "20.976141",
+            "street": "Bia\u0142obrzeska 40A",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "PsychoMedic.pl Klinika Psychologiczno-Psychiatryczna"
+        },
+        "doctor": {
+            "name": "dr Izabela Kulawik",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-22"
+    },
+    {
+        "address": {
+            "lat": "52.2336311",
+            "lon": "20.9844913",
+            "street": "Grzybowska 61",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Centrum Medyczne Polmed Oddzia\u0142 Warszawa - Grzybowska Platinum Towers"
+        },
+        "doctor": {
+            "name": "dr n. med. Grzegorz Maksymiuk",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-27"
+    },
+    {
+        "address": {
+            "lat": "52.2379684",
+            "lon": "21.1000843",
+            "street": "\u0141ukowska 27, r\u00f3g ul. Zamienieckiej",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "PRACOWNIA EMG"
+        },
+        "doctor": {
+            "name": "lek. Katarzyna Macek",
+            "type": "doctor",
+            "speciality": "Neurologic"
+        },
+        "nearest_date": "2018-03-27"
+    },
+    {
+        "address": {
+            "lat": "52.2300606",
+            "lon": "20.9930515",
+            "street": "ul. Sienna 83 wej\u015bcie od ulicy \u017belaznej",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Medycyna D\u0105b Warszawa"
+        },
+        "doctor": {
+            "name": "dr n. med. Piotr Bednarski",
+            "type": "doctor",
+            "speciality": "Surgical"
+        },
+        "nearest_date": "2018-03-20"
+    },
+    {
+        "address": {
+            "lat": "52.2068329",
+            "lon": "21.0379162",
+            "street": "Jurija Gagarina 26/U5",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Macromedica Centrum Medyczne"
+        },
+        "doctor": {
+            "name": "dr n. med. Bohdan Solonynko",
+            "type": "doctor",
+            "speciality": "Surgical"
+        },
+        "nearest_date": "2018-03-19"
+    },
+    {
+        "address": {
+            "lat": "52.2852554",
+            "lon": "20.9533768",
+            "street": "W\u0142adys\u0142awa Broniewskiego 3",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Body Move"
+        },
+        "doctor": {
+            "name": "lek. Micha\u0142 Szyszka",
+            "type": "doctor",
+            "speciality": "Surgical"
+        },
+        "nearest_date": "2018-03-19"
+    },
+    {
+        "address": {
+            "lat": "52.2516518",
+            "lon": "20.9792557",
+            "street": "Spokojna 5",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Przychodnia Lekarska MediSpace"
+        },
+        "doctor": {
+            "name": "lek. Micha\u0142 Pusty",
+            "type": "doctor",
+            "speciality": "Surgical"
+        },
+        "nearest_date": "2018-03-19"
+    },
+    {
+        "address": {
+            "lat": "52.2471619",
+            "lon": "21.005064",
+            "street": "D\u0142uga 27",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "VeritaMed"
+        },
+        "doctor": {
+            "name": "dr n. med. W\u0142odzimierz J\u00f3\u017awiak",
+            "type": "doctor",
+            "speciality": "Surgical"
+        },
+        "nearest_date": "2018-03-21"
+    },
+    {
+        "address": {
+            "lat": "52.2549629",
+            "lon": "20.9846001",
+            "street": "S\u0142omi\u0144skiego 19 lok. 503",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Centrum Operacji Za\u0107my"
+        },
+        "doctor": {
+            "name": "dr n. med. Jerzy Brzozowski",
+            "type": "doctor",
+            "speciality": "Surgical"
+        },
+        "nearest_date": "2018-03-21"
+    },
+    {
+        "address": {
+            "lat": "52.2189674",
+            "lon": "21.2365379",
+            "street": "Je\u017adziecka 20 lok 3",
+            "city": "Weso\u0142a k. Warszawy",
+            "region": "mazowieckie",
+            "institution": "Przychodnia Chirurgiczno Diagnostyczna Rad.Med"
+        },
+        "doctor": {
+            "name": "lek. Rados\u0142aw \u015awi\u0119tochowski",
+            "type": "doctor",
+            "speciality": "Surgical"
+        },
+        "nearest_date": "2018-03-19"
+    },
+    {
+        "address": {
+            "lat": "52.1708412",
+            "lon": "21.1606884",
+            "street": "Przewodowa 14",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "OKULISTA Warszawa Wawer Okulary i Soczewki Kontaktowe"
+        },
+        "doctor": {
+            "name": "lek. Beata Adamus",
+            "type": "doctor",
+            "speciality": "Surgical"
+        },
+        "nearest_date": "2018-03-18"
+    },
+    {
+        "address": {
+            "lat": "52.1691971",
+            "lon": "21.0765152",
+            "street": "Kosiarzy 35",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "SKJ- Praktyka Chirurgiczna Krzysztof Szala"
+        },
+        "doctor": {
+            "name": "dr n. med. Krzysztof Szala",
+            "type": "doctor",
+            "speciality": "Surgical"
         },
         "nearest_date": "2018-03-19"
     },
@@ -67,15 +787,15 @@
         "address": {
             "lat": "52.2453651",
             "lon": "21.1077824",
-            "street": "Szaserów 59 / 7",
+            "street": "Szaser\u00f3w 59 / 7",
             "city": "Warszawa",
             "region": "mazowieckie",
-            "institution": "Poradnia przy Szaserów"
+            "institution": "Poradnia przy Szaser\u00f3w"
         },
         "doctor": {
             "name": "lek. Aleksander Yankouski",
             "type": "doctor",
-            "speciality": "ortopeda"
+            "speciality": "Surgical"
         },
         "nearest_date": "2018-03-20"
     },
@@ -89,169 +809,57 @@
             "institution": "Rex Medica Sport"
         },
         "doctor": {
-            "name": "dr n. med. Jarosław Strychar",
+            "name": "dr n. med. Jaros\u0142aw Strychar",
             "type": "doctor",
-            "speciality": "ortopeda"
+            "speciality": "Surgical"
         },
         "nearest_date": "2018-03-20"
     },
     {
         "address": {
-            "lat": "52.2698174",
-            "lon": "20.9363785",
-            "street": "Nowogrodzka 51/1",
+            "lat": "52.1606026",
+            "lon": "21.0290108",
+            "street": "ul. Bia\u0142y Kamie\u0144 2",
             "city": "Warszawa",
             "region": "mazowieckie",
-            "institution": "Centrum Medyczne AstiMed"
+            "institution": "Europejskie Centrum Leczenia Chor\u00f3b Cywilizacyjnych"
         },
         "doctor": {
-            "name": "lek. Sebastian Janiczek",
+            "name": "dr n. med. Jacek Kurnicki",
             "type": "doctor",
-            "speciality": "ortopeda"
-        },
-        "nearest_date": "2018-03-20"
-    },
-    {
-        "address": {
-            "lat": "52.2771416",
-            "lon": "20.9439278",
-            "street": "Nowogrodzka 51/1",
-            "city": "Warszawa",
-            "region": "mazowieckie",
-            "institution": "ZnajomaKlinika.pl"
-        },
-        "doctor": {
-            "name": "lek. Marta Szymańska",
-            "type": "doctor",
-            "speciality": "ortopeda"
-        },
-        "nearest_date": "2018-03-22"
-    },
-    {
-        "address": {
-            "lat": "52.1568642",
-            "lon": "21.0719776",
-            "street": "Świętego Stanisława Kostki 4",
-            "city": "Piastów",
-            "region": "mazowieckie",
-            "institution": "KalinaMed lekarz ortopeda, USG ortopedyczne niedziela"
-        },
-        "doctor": {
-            "name": "lek. Łukasz Dubielecki",
-            "type": "doctor",
-            "speciality": "ortopeda"
-        },
-        "nearest_date": "2018-03-22"
-    },
-    {
-        "address": {
-            "lat": "52.2852554",
-            "lon": "20.9533768",
-            "street": "Władysława Broniewskiego 3",
-            "city": "Warszawa",
-            "region": "mazowieckie",
-            "institution": "Body Move"
-        },
-        "doctor": {
-            "name": "lek. Michał Szyszka",
-            "type": "doctor",
-            "speciality": "ortopeda"
+            "speciality": "Surgical"
         },
         "nearest_date": "2018-03-19"
     },
     {
         "address": {
-            "lat": "52.2273865",
-            "lon": "21.0067902",
-            "street": "Aleje Jerozolimskie 65/79, 6p.",
+            "lat": "52.2273979",
+            "lon": "21.0647335",
+            "street": "Saska 16/14",
             "city": "Warszawa",
             "region": "mazowieckie",
-            "institution": "FIMEDICA"
+            "institution": "Prywatny Gabinet Chirurgiczny Tomasz Wo\u0142oszko"
         },
         "doctor": {
-            "name": "lek. Filip Kucharczyk",
+            "name": "dr n. med. Tomasz Wo\u0142oszko",
             "type": "doctor",
-            "speciality": "ortopeda"
-        },
-        "nearest_date": "2018-03-21"
-    },
-    {
-        "address": {
-            "lat": "52.1550903",
-            "lon": "21.0779629",
-            "street": "aleja Rzeczypospolitej 5",
-            "city": "Warszawa",
-            "region": "mazowieckie",
-            "institution": "Rehasport Clinic"
-        },
-        "doctor": {
-            "name": "dr n. med. Paweł Sokołowicz",
-            "type": "doctor",
-            "speciality": "ortopeda"
-        },
-        "nearest_date": "2018-03-20"
-    },
-    {
-        "address": {
-            "lat": "52.2628174",
-            "lon": "20.9775791",
-            "street": "Władysława Broniewskiego 3",
-            "city": "Warszawa",
-            "region": "mazowieckie",
-            "institution": "Centrum Medyczne Gamma"
-        },
-        "doctor": {
-            "name": "lek. Grzegorz Doroszewski",
-            "type": "doctor",
-            "speciality": "ortopeda"
-        },
-        "nearest_date": "2018-03-27"
-    },
-    {
-        "address": {
-            "lat": "52.2055473",
-            "lon": "20.9964409",
-            "street": "ul. Biały Kamień 2",
-            "city": "Warszawa",
-            "region": "mazowieckie",
-            "institution": "Klinika Ruchu"
-        },
-        "doctor": {
-            "name": "lek. Łukasz Kowalski",
-            "type": "doctor",
-            "speciality": "ortopeda"
-        },
-        "nearest_date": "2018-03-20"
-    },
-    {
-        "address": {
-            "lat": "52.2866554",
-            "lon": "21.0263443",
-            "street": "Marynarska 13",
-            "city": "Warszawa",
-            "region": "mazowieckie",
-            "institution": "Poradnia Chorób Stopy"
-        },
-        "doctor": {
-            "name": "dr n. med. Piotr Wojdasiewicz",
-            "type": "doctor",
-            "speciality": "ortopeda"
+            "speciality": "Surgical"
         },
         "nearest_date": "2018-03-19"
     },
     {
         "address": {
-            "lat": "52.2307777",
-            "lon": "20.9759388",
-            "street": "Giełdowa 4 u.1",
+            "lat": "52.254776",
+            "lon": "20.9850368",
+            "street": "S\u0142omi\u0144skiego 19 lok. 517",
             "city": "Warszawa",
             "region": "mazowieckie",
-            "institution": "Przychodnia Rehexpert"
+            "institution": "Babka Medica. Specjalistyczna przychodnia ginekologiczno-po\u0142o\u017cnicza"
         },
         "doctor": {
-            "name": "dr n. med. Artur Biel",
+            "name": "lek. Kamil Jakubowicz",
             "type": "doctor",
-            "speciality": "ortopeda"
+            "speciality": "Surgical"
         },
         "nearest_date": "2018-03-19"
     },
@@ -259,64 +867,96 @@
         "address": {
             "lat": "52.2276382",
             "lon": "21.0041046",
-            "street": "Aleje Jerozolimskie 65/79, 6p.",
+            "street": "Aleje Jerozolimskie 65/79",
             "city": "Warszawa",
             "region": "mazowieckie",
-            "institution": "PROFEMED Lekarze Specjaliści"
+            "institution": "PROFEMED Lekarze Specjali\u015bci"
         },
         "doctor": {
-            "name": "dr hab. n. med. Ireneusz Babiak",
+            "name": "lek. Maciej Kubica",
             "type": "doctor",
-            "speciality": "ortopeda"
-        },
-        "nearest_date": "2018-03-20"
-    },
-    {
-        "address": {
-            "lat": "52.0991325",
-            "lon": "21.0513859",
-            "street": "Urocza 14",
-            "city": "Józefosław",
-            "region": "mazowieckie",
-            "institution": "Zdrowie to my"
-        },
-        "doctor": {
-            "name": "lek. Leszek Jezierski",
-            "type": "doctor",
-            "speciality": "ortopeda"
-        },
-        "nearest_date": "2018-03-26"
-    },
-    {
-        "address": {
-            "lat": "52.1965866",
-            "lon": "20.8868561",
-            "street": "Grójecka 186",
-            "city": "Warszawa",
-            "region": "mazowieckie",
-            "institution": "ViaMed Przychodnia Ursus"
-        },
-        "doctor": {
-            "name": "lek. Maciej Materkowski",
-            "type": "doctor",
-            "speciality": "ortopeda"
+            "speciality": "Surgical"
         },
         "nearest_date": "2018-03-19"
     },
     {
         "address": {
-            "lat": "52.2242279",
-            "lon": "21.0933266",
-            "street": "Bora-Komorowskiego 21 lok. 307",
+            "lat": "52.2502022",
+            "lon": "20.9885254",
+            "street": "Zawiszak\u00f3w 23",
             "city": "Warszawa",
             "region": "mazowieckie",
-            "institution": "BORAMED"
+            "institution": "Centrum Medyczne - Mi\u0142a"
         },
         "doctor": {
-            "name": "lek. Maciej Michalec",
+            "name": "dr n. med. Aleksander Grous",
             "type": "doctor",
-            "speciality": "ortopeda"
+            "speciality": "Surgical"
+        },
+        "nearest_date": "2018-03-19"
+    },
+    {
+        "address": {
+            "lat": "52.1971016",
+            "lon": "21.0250397",
+            "street": "Gen. Romana Abrahama 18 lok 322",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Centrum Profilaktyki i Leczenia Chor\u00f3b Naczy\u0144"
+        },
+        "doctor": {
+            "name": "dr n. med. Tomasz Ci\u0105\u0107ka",
+            "type": "doctor",
+            "speciality": "Surgical"
+        },
+        "nearest_date": "2018-03-26"
+    },
+    {
+        "address": {
+            "lat": "52.1185226",
+            "lon": "21.1056137",
+            "street": "Zawiszy 14",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "PJ- Med / Jolly Med"
+        },
+        "doctor": {
+            "name": "lek. Beata Mitr\u0119ga-Korab",
+            "type": "doctor",
+            "speciality": "Surgical"
         },
         "nearest_date": "2018-03-20"
+    },
+    {
+        "address": {
+            "lat": "52.2628174",
+            "lon": "20.9775791",
+            "street": "W\u0142adys\u0142awa Broniewskiego 3",
+            "city": "Warszawa",
+            "region": "mazowieckie",
+            "institution": "Centrum Medyczne Gamma"
+        },
+        "doctor": {
+            "name": "dr n. med. Pawe\u0142 Adamczyk",
+            "type": "doctor",
+            "speciality": "Surgical"
+        },
+        "nearest_date": "2018-03-19"
+    },
+    {
+        "address": {
+            "lat": "52.1568642",
+            "lon": "21.0719776",
+            "street": "\u015awi\u0119tego Stanis\u0142awa Kostki 4",
+            "city": "Piast\u00f3w",
+            "region": "mazowieckie",
+            "institution": "KalinaMed lekarz ortopeda, USG ortopedyczne niedziela"
+        },
+        "doctor": {
+            "name": "lek. \u0141ukasz Dubielecki",
+            "type": "doctor",
+            "speciality": "Surgical"
+        },
+        "nearest_date": "2018-03-22"
     }
 ]

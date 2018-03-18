@@ -21,16 +21,16 @@ def get_medical_institutions(doctor_speciality, location):
         record = {}
         record.update({
             'address': {
-                'lat': tag['data-object-lat'],
-                'lon': tag['data-object-lon'],
-                'street': tag['streetAddress'],
-                'city': tag['addressLocality'],
-                'region': tag['addressRegion'],
+                'lat': tag.get('data-object-lat'),
+                'lon': tag.get('data-object-lon'),
+                'street': tag.get('streetAddress'),
+                'city': tag.get('addressLocality'),
+                'region': tag.get('addressRegion'),
                 'institution': institution.text,
             },
             'doctor': {
-                'name': tag['name'],
-                'type': tag['data-object-type'],
+                'name': tag.get('name'),
+                'type': tag.get('data-object-type'),
                 'speciality': tag.get('MedicalSpecialty') or doctor_speciality
             },
             'nearest_date': nearest_date.attrs.get('data-nearest-available-date')
