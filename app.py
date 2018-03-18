@@ -38,7 +38,10 @@ class Data(Resource):
             )
         )
         loop.close()
-        return institutions, {'Access-Control-Allow-Origin': '*'}
+        result = []
+        for inst in institutions:
+            result.extend(inst)
+        return result, {'Access-Control-Allow-Origin': '*'}
 
 
 api.add_resource(Data, '/api/<string:body_part>/<string:location>')
